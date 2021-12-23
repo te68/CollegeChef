@@ -1,0 +1,95 @@
+- Background
+  - 21 year old female student at Cornell University in her senior year, ILR major
+  - Lives off campus in an apartment with two other people, the three of them share a kitchen and refrigerator
+  - No dietary restrictions
+- Eating habits
+  - Eats three meals a day
+    - brunch @ 11am a few hours after waking up
+    - lunch/dinner at 4:00pm
+    - Dinner at 8:00pm with snacks in between
+  - Doesn't eat after waking up because will get hungry too fast afterward, doesn't want to have to eat more food
+  - Can predict when she is going to be hungry
+    - Usually every 2 or 3 hours, either will have a snack or a meal
+- Ordering food
+  - Doesn't like ordering through an app or through a website or online
+    - main problem with that is that every restaurant uses a different platform so she would have to sign up for all of these accounts
+      - doesn't want to input credit card, etc.
+  - Likes to call restaurants
+  - If ordering online, Google the restaurant and try to order through the restaurants platform rather than a third-party platform.
+  - Sometimes order for convenience, low price, and fast because does not have time to cook or does not want to cook
+  - Sometimes will be craving a specific food and will order something that is more expensive or takes longer
+- Recent experience: Oishi bowl online order
+  - ordered online through the company's website
+    - very easy to do once website was found on Google
+  - they texted and emailed when it was ready in 10-15 minutes
+  - walked to restaurant to pick it up and walked back home in 10 minutes
+  - choose to do a pickup because it was a short distance
+  - choose Oishi bowl because it's one of the cheaper and faster restaurants in college town
+    - "at that moment I was just looking for cheap and fast and filling"
+    - Got home from work at 8, normally when she returns at this time she does not want to cook
+  - very satisfied with the experience as a whole
+    - didn't have to wait at all, system to order was simple
+    - however doesn't order from there often because she prefers the taste of other places
+- Cooking
+  - Does not cook that often, doesn't like to cook often
+  - The problem in college is that she doesn't have all the ingredients that she would want to have, and does not want to purchase those regularly.
+  - "Since I'm only cooking for myself, then I don't want to buy a lot of niche things because I'm not going to use them."
+    - Implying there are foods she likes to eat but doesn;t think it would make sense to buy all the ingredients because she wouldn't cook it enough
+    - Example: if she wants pasta, she wants fresh basil with it, the basic in her fridge would not be fresh, so it's easier to get it from a restaurant
+- Recent experience: preparing a meal
+  - Brunch at around noon
+  - some toast with eggs, three eggs
+    - salt, pepper, garlic powder, paprika, maybe, maybe cayenne garlic powder parsley.
+    - "I just throw in general spices. I just throw them in whatever sounds like it would go"
+    - went by intuition, learned from experience
+  - plum and a smoothie smoothie with spinach, yogurt, banana, frozen fruit and milk
+  - drink smoothies most mornings just because she doesn't get the chance to eat that many fruits and vegetables
+    - doesn't want to worry about nutrition for dinner
+    - learned how to make the smoothie from former roommate
+      - She tried it and liked it so she learned how to make it
+      - she likes to know what something tastes like before making it herself, this prevents cooking something and finding out she doesn't like it, a waste of time and effort
+      - cooking or ordering takeout with unfamiliar foods is always a risk
+  - Eggs for protein because she wanted some nutrients to fill her up for class
+  - Need to eat some carbs in the morning or else she doesn't feel full
+  - main trouble with cooking this meal is the time it takes
+    - that is the main problem with cooking in general
+    - dishes and preparation take too long
+    - doesn't want to set aside hours for meal preparation
+- Food
+  - is very particular about food
+    - Would like to have a balanced meal
+    - something savory, carbs, protein, vegetables, fruit
+    - Satisfied with meals if it's more comprehensive
+    - If ordering out, not looking specifically for nutritious meals
+      - "It's mostly just about being full"
+  - When cooking, have more control over what she is eating so it is easier to focus on nutrition and balanced meal versus ordering or going out has little control
+    - doesn't not order vegetables when eating out
+    - try to eat healthy prepared meals
+- Getting ingredients experience
+  - Went to Aldi, the ideal, quick, grocery shop
+  - Drives there in her car, spends 20 minutes shopping
+  - Likes how they don't have 20 different kinds of each product, limited selection makes it easier to pick ingredients
+    - Overwhelmed by the options in Wegmans
+  - Only difficulty is putting aside time to go
+  - Doesn't pay attention to experience dates but does take some time to assess produce
+  - Looks at the price but is not picky about small differences, she knows the whole grocery store is reasonable
+  - organic vs. non organic doesn't affect decision
+  - Chooses ingredients that she already has a plan for what she will do with them or ingredients that are very flexible
+- Experience cooking from recipe
+  - Don't really cook from recipes, only bake
+    - Doesn't browse recipes
+  - Baked banana bread because she had old bananas to get rid of
+    - She will use a recipe if she has an ingredient she doesn't know what to do with
+    - Did not have a recipe in her head for banana bread
+    - Just selected one of the top results that had a picture that looked good
+      - Looked more moist and bouncy that the other recipes
+  - Looked for recipe without many ingredients
+    - sometimes with baking, doesn't have all the materials needed for baking
+  - Didn't read the instructions to carefully, has an idea of how to bake and doesn't think banana bread is a difficult dish
+    - "I just throw everything in"
+    - only pays attention to ratios of food
+    - will sometimes not even set a timer
+- Recipes
+  - She would use recipes if she had more time to experiment and more ingredients and everything she needs
+  - would use more recipes with a "full kitchen" with more supplies
+  - mostly cooks from experience and food that she has eaten already

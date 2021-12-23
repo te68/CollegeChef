@@ -1,0 +1,801 @@
+{
+"Recipes" : {
+    "shrimp-fried-rice": {
+      "name": "Shrimp Fried Rice",
+      "route": "shrimp-fried-rice",
+      "time": 25,
+      "difficulty": "Easy",
+      "img": "shrimp-fried-rice.png",
+      "img-source": "https://www.simplyrecipes.com/recipes/shrimp_fried_rice/",
+      "ingredients": [
+        {
+            "ingredientName": "Rice",
+            "optional": false
+        },
+        {
+            "ingredientName": "Onion",
+            "optional": false
+        },
+        {
+            "ingredientName": "Shrimp",
+            "optional": true,
+            "substitute": ["Spam Ham"]
+        },
+        {
+            "ingredientName": "Carrot",
+            "optional": true
+        },
+        {
+            "ingredientName": "Soy Sauce",
+            "optional": false
+        }
+      ],
+      "steps": [
+          {
+              "instruction": "Cook 1 serving of rice.",
+              "optional": false
+          },
+          {
+            "instruction": "Chop up your vegetables.",
+            "optional": false
+          },
+          {
+              "instruction": "In a heated pan, add your shrimp or protein of choice and stir until fully cooked.",
+              "optional": false
+          },
+          {
+              "instruction": "Once protein is cooked, add your vegetables.",
+              "optional": false
+          },
+          {
+              "instruction": "Once vegetables become soft, add your rice and mix thoroughly.",
+              "optional": false
+          },
+          {
+              "instruction":"Season your fried rice with soy sauce and salt to your liking.",
+              "optional": false
+          }
+      ]
+    },
+    "chicken-stir-fry": {
+        "name": "Chicken Stir Fry",
+        "route": "chicken-stir-fry",
+        "img": "chicken-stir-fry.jpeg",
+        "img-source": "https://www.momontimeout.com/easy-chicken-stir-fry-recipe/",
+        "time": 18,
+        "difficulty": "Easy",
+        "ingredients": [
+            {
+                "ingredientName": "Chicken",
+                "optional": false
+            },
+            {
+                "ingredientName": "Broccoli",
+                "optional": true
+            },
+            {
+                "ingredientName": "Peppers",
+                "optional": true
+            },
+            {
+                "ingredientName": "Soy Sauce",
+                "optional": false
+            },
+            {
+                "ingredientName": "Honey",
+                "optional": false,
+                "substitute": ["Sugar"]
+            },
+            {
+                "ingredientName": "Sesame Oil",
+                "optional": true
+            },
+            {
+                "ingredientName": "Corn Starch",
+                "optional": true
+            }
+        ],
+        "steps":[
+            {
+                "instruction": "Wash and chop all ingredients to bite size pieces.",
+                "optional": false
+            },
+            {
+                "instruction": "Whisk together corn starch and water.",
+                "optional": true
+            },
+            {
+                "instruction": "Mix together water, soy sauce, honey, sesame oli, and any spice of your choice.",
+                "optional": false
+            },
+            {
+                "instruction": "Add chicken and season with salt and pepper. Cook for 3 to 5 minutes until cooked through.",
+                "optional": false
+            },
+            {
+                "instruction": "On a different pan, add your vegetables and cook until desired texture.",
+                "optional": true
+            },
+            {
+                "instruction": "Combine the chicken and vegetables. Pour the stir fry sauce over the ingredients.",
+                "optional": false
+            },
+            {
+                "instruction": "Stir for couple of minutes to let the sauce absorb into the ingredients.",
+                "optional": false
+            },
+            {
+                "instruction": "Serve with rice and/or chow mein if desired.",
+                "optional": true
+            }
+        ]
+    },
+    "macaroni-salad": {
+        "name": "Macaroni Salad",
+        "route": "macaroni-salad",
+        "time": 25,
+        "difficulty": "Easy",
+        "img": "macaroni-salad.jpeg",
+        "img-source": "https://sugarspunrun.com/macaroni-salad/",
+        "ingredients": [
+            {
+                "ingredientName": "Macaroni",
+                "optional": false
+            },
+            {
+                "ingredientName": "Cucumber",
+                "optional": false,
+                "substitute": ["Celery", "Carrot"]
+            },
+            {
+                "ingredientName": "Onion",
+                "optional": true
+            },
+            {
+                "ingredientName": "Egg",
+                "optional": true
+            },
+            {
+                "ingredientName": "Spam Ham",
+                "optional": false,
+                "substitute": ["Chicken", "Canned Tuna", "Sweet Corn"]
+            },
+            {
+                "ingredientName": "Mayo",
+                "optional": false
+            },
+            {
+                "ingredientName": "Rice Vinegar",
+                "optional": true
+            },
+            {
+                "ingredientName": "Sugar",
+                "optional": true
+            },
+            {
+                "ingredientName": "Soy Sauce",
+                "optional": true
+            },
+            {
+                "ingredientName": "Black Pepper",
+                "optional": true
+            }
+        ],
+        "materials":[
+            {
+                "cutting board": true
+            },
+            {
+                "knife": true
+            },
+            {
+                "mixing bowl": true
+            }
+        ],
+        "steps":[
+            {
+                "instruction": "Boil macaroni and add salt. Drain and let cool after cooked.",
+                "optional": false
+            },
+            {
+                "instruction": "Add and mix vinegar and sugar to macaroni.",
+                "optional": true
+            },
+            {
+                "instruction": "Boil egg, peel, and cut into small pieces.",
+                "optional": true
+            },
+            {
+                "instruction": "Wash and chop up vegetables.",
+                "optional": false
+            },
+            {
+                "instruction": "Cut up protein into small portions.",
+                "optional": false
+            },
+            {
+                "instruction": "Combine the protein and vegetables with the cooled macaroni and mix well.",
+                "optional": false
+            },
+            {
+                "instruction": "Add mayo to the mixture. Add ground black pepper if available",
+                "optional": false
+            },
+            {
+                "instruction": "Chill salad in fridge for one hour."
+            }
+        ]
+    },
+    "avocado-toast": {
+        "name": "Avocado Toast",
+        "route": "avocado-toast",
+        "time": 10,
+        "difficulty": "Easy",
+        "img": "avocado-toast.jpeg",
+        "img-source": "https://www.cookinglight.com/recipes/avocado-toast-recipe",
+        "ingredients":[
+            {
+                "ingredientName": "Bread",
+                "optional": false
+            },
+            {
+                "ingredientName": "Avocado", 
+                "optional": false
+            },
+            {
+                "ingredientName": "Onion",
+                "optional": true
+            },
+            {
+                "ingredientName": "Honey",
+                "optional": true
+            },
+            {
+                "ingredientName": "Egg",
+                "optional": true
+            }
+        ],
+        "steps": [
+            {
+                "instruction": "Toast slices of bread (depending on how many you want to eat).",
+                "optional": true
+            },
+            {
+                "instruction": "Peel an avocado and remove the seed. Mash the avocado until it becomes paste-like.",
+                "optional": false
+            },
+            {
+                "instruction": "Chop half of onion and mix it with the avocado.",
+                "optional": true
+            },
+            {
+                "instruction": "Season the avocado mix with salt as you desire. Add honey for a touch of sweetness.",
+                "optional": true
+            },
+            {
+                "instruction": "Spread the avocado mix on top of your bread.",
+                "optional": false
+            },
+            {
+                "instruction": "Make an egg fry and place it on top of your avocado toast.",
+                "optional": true
+            }
+        ]
+    },
+    "cheesy-enchilada-casserole": {
+        "name": "Cheesy Enchilada Casserole",
+        "route": "cheesy-enchilada-casserole",
+        "time": 25,
+        "difficulty": "Easy",
+        "img": "cheesy-enchilada-casserole.jpg",
+        "img-source": "https://www.familyfreshmeals.com/2014/09/cheesy-chicken-enchilada-casserole-vegetarian-option.html",
+        "ingredients": [
+            {
+                "ingredientName": "Corn Tortillas",
+                "optional": false
+            },
+            {
+                "ingredientName": "Cheese",
+                "optional": false
+            },
+            {
+                "ingredientName": "Onion",
+                "optional": false
+            },
+            {
+                "ingredientName": "Black Olive",
+                "optional": true
+            },
+            {
+                "ingredientName": "Chicken",
+                "optional": false,
+                "substitute": ["Spam Ham", "Canned Tuna", "Sweet Corn"]
+            },
+            {
+                "ingredientName": "Enchilada Sauce",
+                "optional": true
+            }
+        ],
+        "materials":[
+            {
+                "baking tray": true
+            },
+            {
+                "baking sheet": true,
+                "optional": true
+            },
+            {
+                "knife": true
+            },
+            {
+                "aluminum foil": true,
+                "optional": true
+            }
+        ],
+        "steps": [
+            {
+                "instruction": "Preheat oven to 375 degrees F. Layer baking tray with baking sheet or cooking spray.",
+                "optional": false
+            },
+            {
+                "instruction": "Arrange tortillas on baking tray.",
+                "optional": false
+            },
+            {
+                "instruction": "Chop up ingredients to pieces as necessary.",
+                "optional": false
+            },
+            {
+                "instruction": "Spread cheese, onion, olives, green enchilada sauce, chicken on tortillas.",
+                "optional": false
+            },
+            {
+                "instruction": "Cover baking tray with aluminum foil.",
+                "optional": true
+            },
+            {
+                "instruction": "Bake in oven for 15 min, then remove foil and bake again until cheese is bubbly or to satisfaction.",
+                "optional": false
+            }
+        ]
+    },
+    "penne-alla-vodka": {        
+        "name": "Penne alla Vodka",
+        "route": "penne-alla-vodka",
+        "time": 30,
+        "difficulty": "Medium",
+        "img": "penne-alla-vodka.jpeg",
+        "img-source": "https://www.foodnetwork.com/recipes/ree-drummond/penne-alla-vodka-recipe-2014981",
+        "ingredients":[
+            {
+                "ingredientName": "Pasta",
+                "optional": false,
+                "substitute": ["Any type of pasta!"]
+            },
+            {
+                "ingredientName": "Plain Vodka",
+                "optional": true
+            },
+            {
+                "ingredientName": "Onion",
+                "optional": true
+            },
+            {
+                "ingredientName": "Minced Garlic",
+                "optional": true
+            },
+            {
+                "ingredientName": "Heavy Cream",
+                "optional": false,
+                "substitute": ["Half-and-Half, Coconut Cream, Milk"]
+            },
+            {
+                "ingredientName": "Tomatoes",
+                "optional": false
+            },
+            {
+                "ingredientName": "Butter",
+                "optional": false,
+                "substitute": ["Olive Oil" ]
+            },
+            {
+                "ingredientName": "Parmesan Cheese",
+                "optional": true
+            }
+        ],
+        "steps":[
+            {
+                "instruction": "Cook the pasta in salted boiling water according to package directions.",
+                "optional": false
+            },
+            {
+                "instruction": "Melt butter or place a spoonful of olive oil into a pan.",
+                "optional": false
+            },
+            {
+                "instruction": "Add the garlic and cook for about 30 seconds.",
+                "optional": true
+            },
+            {
+                "instruction": "Add the tomato paste and heavy cream into the pan. Stir until completely mixed together.",
+                "optional": false
+            },
+            {
+                "instruction": "Add a little bit of vodka to the mix and let it boil for couple of seconds while stirring.",
+                "optional": true
+            },
+            {
+                "instruction": "Add the permesan cheese and season the sauce with salt and pepper to your liking.",
+                "optional": true
+            },
+            {
+                "instruction": "Add a cup of pasta water to the sauce and stir thoroughly.",
+                "optional": false
+            },
+            {
+                "instruction": "Drain the pasta water and add your cooked pasta into the pan with the sauce until thoroughly coated.",
+                "optional": false
+            }
+        ] 
+    },
+    "pesto-and-chicken-pasta": {
+        "name": "Pesto and Chicken Pasta",
+        "route": "pesto-and-chicken-pasta",
+        "time": 25,
+        "difficulty": "Easy",
+        "img": "pesto-and-chicken-pasta.jpeg",
+        "img-source": "https://www.dinneratthezoo.com/chicken-pesto-pasta/",
+        "ingredients": [
+            {
+                "ingredientName": "Pasta",
+                "optional": false,
+                "substitute": ["Any type of pasta"]
+            },
+            {
+                "ingredientName": "Cheese",
+                "optional": true
+            },
+            {
+                "ingredientName": "Tomatoes",
+                "optional": false
+            },
+            {
+                "ingredientName": "Black Olive",
+                "optional": true
+            },
+            {
+                "ingredientName": "Chicken",
+                "optional": false
+            },
+            {
+                "ingredientName": "Olive Oil",
+                "optional": true
+            },
+            {
+                "ingredientName": "Pesto",
+                "optional": false
+            }
+        ],
+        "materials":[
+            {
+                "knife": true
+            },
+            {
+                "frying pan": true
+            },
+            {
+                "cutting board": true
+            }
+        ],
+        "steps": [
+            {
+                "instruction": "Boil water in large pan. Once boiled, cook the pasta that you choose for around 8 minutes.",
+                "optional": false
+            },
+            {
+                "instruction": "While pasta is in the making, cut chicken into smaller pieces and grill it on the frying pan.",
+                "optional": false
+            },
+            {
+                "instruction": "Cut the potatoes into small pieces using knife and cutting board.",
+                "optional": false
+            },
+            {
+                "instruction": "In a deep plate, put the pasta that you made.",
+                "optional": false
+            },
+            {
+                "instruction": "Put pesto sauce on top of the pasta and mix it.",
+                "optional": false
+            },
+            {
+                "instruction": "Once mixed together, put the chicken and tomatoes inside and mix it together again.",
+                "optional": false
+            },
+            {
+                "instruction": "Put olive oil and cheese on top of your pasta.",
+                "optional": true
+            }
+        ]
+    },
+    "veggie-bowl":{
+        "name": "Veggie Bowl",
+        "route": "veggie-bowl",
+        "time": 20,
+        "difficulty": "Easy",
+        "img": "veggie-bowl.jpeg",
+        "img-source": "https://simplegreensmoothies.com/recipes/rice-bowl-recipes",
+        "ingredients": [
+            {
+                "ingredientName": "Brown Rice",
+                "optional": false,
+                "substitute": ["Quinoa","Bulgut"]
+            },
+            {
+                "ingredientName": "Broccoli",
+                "optional": false
+            },
+            {
+                "ingredientName": "Carrot",
+                "optional": false
+            },
+            {
+                "ingredientName": "Chickpeas",
+                "optional": false,
+                "substitute": ["black beans, pinto beans"]
+            },
+            {
+                "ingredientName": "Peanut",
+                "optional": true,
+                "substitute": ["Other seeds","other nuts"]
+            },
+            {
+                "ingredientName": "Olive Oil",
+                "optional": false
+            },
+            {
+                "ingredientName": "Vinegar",
+                "optional": true
+            }
+        ],
+        "materials":[
+            {
+                "knife": true
+            },
+            {
+                "cooker": true
+            },
+            {
+                "cutting board": true
+            },
+            {
+                "mixing bowl": true
+            }
+        ],
+        "steps": [
+            {
+                "instruction": "Cook brown rice, or grain, in a cooker for about 10 minutes.",
+                "optional": false
+            },
+            {
+                "instruction": "Steam broccoli in microwawe or on stove top.",
+                "optional": false
+            },
+            {
+                "instruction": "Place cooked rice or other grain in a serving bowl with cooked broccoli.",
+                "optional": false
+            },
+            {
+                "instruction": "If you are using beans, cook them and put them in the bowl as well.",
+                "optional": true
+            },
+            {
+                "instruction": "Cut carrots and other vegetables that you are using and put them on top.",
+                "optional": false
+            },
+            {
+                "instruction": "Put seeds and nuts that you are using on top as well. ",
+                "optional": false
+            },
+            {
+                "instruction": "Put olive oil and vinegar for better taste.",
+                "optional": true
+            }
+        ]
+    },
+    "mashed-potatoes-with-chicken": {
+        "name": "Mashed Potatoes with Chicken",
+        "route": "mashed-potatoes-with-chicken",
+        "time": 25,
+        "difficulty": "Medium",
+        "img": "mashed-potatoes-with-chicken.jpeg",
+        "img-source": "https://www.myrecipes.com/recipe/chicken-mashed-potatoes-gravy",
+        "ingredients": [
+            {
+                "ingredientName": "Potato",
+                "optional": false
+            },
+            {
+                "ingredientName": "Milk",
+                "optional": false
+            },
+            {
+                "ingredientName": "Sea Salt",
+                "optional": true
+            },
+            {
+                "ingredientName": "Chicken",
+                "optional": false,
+                "substitute": ["Any type of meet"]
+            },
+            {
+                "ingredientName": "Garlic",
+                "optional": false
+            },
+            {
+                "ingredientName": "Tomatoes",
+                "optional": true
+            },
+            {
+                "ingredientName": "Butter",
+                "optional": true
+            }
+        ],
+        "materials":[
+            {
+                "peeler": true
+            },
+            {
+                "sauce pan": true
+            },
+            {
+                "knife": true
+            },
+            {
+                "mixing bowl": true
+            }
+        ],
+        "steps": [
+            {
+                "instruction": "Cut you potatoes.",
+                "optional": false
+            },
+            {
+                "instruction": "Steam your peeled potatoes with garlic until potatoes are very soft.",
+                "optional": false
+            },
+            {
+                "instruction": "While the potatoes are steaming, melt the butter in a sauce pan and stir it until it becomes brown.",
+                "optional": false
+            },
+            {
+                "instruction": "Remove the butter from the heat once it becomes brown.",
+                "optional": false
+            },
+            {
+                "instruction": "In a large mixing bowl on the side, combine the steamed potatoes, milk, garlic, and brown butter and mash it.",
+                "optional": false
+            },
+            {
+                "instruction": "Add salt and pepper for better taste!",
+                "optional": true
+            }
+        ]
+    },
+    "grilled-peanut-butter-banana-sandwich": {
+        "name": "Grilled Peanut Butter Banana Sandwich",
+        "route": "grilled-peanut-butter-banana-sandwich",
+        "time": 10,
+        "difficulty": "Easy",
+        "img": "grilled-peanut-butter-banana-sandwich.jpeg",
+        "img-source": "https://www.readyseteat.com/recipes-Grilled-Peanut-Butter-and-Banana-Sandwiches-6787",
+        "ingredients": [
+            {
+                "ingredientName": "Bread",
+                "optional": false
+            },
+            {
+                "ingredientName": "Peanut Butter",
+                "optional": false
+            },
+            {
+                "ingredientName": "Banana",
+                "optional": false
+            },
+            {
+                "ingredientName": "Butter",
+                "optional": true,
+                "substitute": ["vegetable oil"]
+            },
+            {
+                "ingredientName": "Jam",
+                "optional": true
+            }
+        ],
+        "materials":[
+            {
+                "frying pan": true,
+                "optional": true
+            },
+            {
+                "knife": true
+            }
+        ],
+        "steps": [
+            {
+                "instruction": "Spread peanut butter on one slice of bread.",
+                "optional": false
+            },
+            {
+                "instruction": "Spread jam on other slice of bread.",
+                "optional": true
+            },
+            {
+                "instruction": "Mash banana (using fork, spoon, or hands) and spread it on a slice of bread.",
+                "optional": false
+            },
+            {
+                "instruction": "Put slices together to form a sandwich.",
+                "optional": false
+            },
+            {
+                "instruction": "Melt butter in frying pan.",
+                "optional": true
+            },
+            {
+                "instruction": "Fry sandwich in pan on both sides until golden brown.",
+                "optional": true
+            }
+        ]
+    }
+},
+
+"supplies": [
+    "Frying Pan", "Sauce Pan", "Pot", "Whisk", "Spatula", "Knife", "Cutting Board", "Baking Tray", "Cooker", "Colander", "Rolling Pin", 
+    "Peeler", "Grater", "Wok", "Aluminum Foil", "Mixing Bowl"
+],
+
+"availability" : 30,
+
+"weeks" : {
+    "10-24-21": {
+        "period":"10/24/21 - 10/30/21",
+        "money": 25,
+        "meals": [
+            "shrimp-fried-rice",
+            "avocado-toast",
+            "grilled-peanut-butter-banana-sandwich"
+        ]
+    },
+    "10-31-21": {
+        "period": "10/31/21 - 11/6/21",
+        "money": 30,
+        "meals": [
+            "grilled-peanut-butter-banana-sandwich",
+            "veggie-bowl",
+            "chicken-stir-fry",
+            "pesto-and-chicken-pasta"
+        ]
+    },
+    "11-7-21": {
+        "period": "11/7/21 - 11/13/21",
+        "money": 30,
+        "meals": [
+            "shrimp-fried-rice",
+            "veggie-bowl",
+            "mashed-potatoes-with-chicken",
+            "pesto-and-chicken-pasta"
+        ]
+    }
+},
+
+"ingredients": [
+    "Rice", "Onion", "Shrimp", "Carrot", "Broccoli", "Peppers", "Soy Sauce",
+    "Sesame Oil", "Chicken", "Olive Oil", "Pasta", "Cucumber", "Egg", "Avocado", "Honey", "Corn Starch", "Bread",
+    "Peanut Butter", "Banana", "Macaroni", "Spam Ham", "Mayo", "Corn Tortillas",
+    "Cheese", "Quinoa", "Chickpeas", "Heavy Cream", "Tomatoes", "Pesto",
+    "Potato", "Milk", "Garlic"
+]
+
+
+}
